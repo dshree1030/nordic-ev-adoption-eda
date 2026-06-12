@@ -102,6 +102,7 @@ Note: This is a country-level analysis and does not include geographic charger l
 
 ## 📁 Project Structure
 
+```
 nordic_ev_analysis/
 │
 ├── data/
@@ -120,6 +121,7 @@ nordic_ev_analysis/
 │
 ├── README.md
 └── requirements.txt
+```
 
 ---
 
